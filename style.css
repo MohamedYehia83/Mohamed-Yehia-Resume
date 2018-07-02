@@ -1,5 +1,5 @@
 .resumeHeader1{
-    font: 40px; 
+    font: 80px; 
     color: black;
     margin: 0 auto;
     text-align: center;
@@ -16,4 +16,5 @@
 .resumeHeader2{
     background-color: black;
     color: white;
+    font: 80;
 }
