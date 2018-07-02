@@ -1,20 +1,18 @@
 .resumeHeader1{
-    font: 80px; 
-    color: black;
     margin: 0 auto;
     text-align: center;
     padding: 25px;
 }
 
 #firstName{
-    color: black;
+    color: black; font-size: 80;
 }
 
 #lastName{
-    color: red;
+    color: red; font-size: 80;
 }
 
-.resumeHeader2{
+.address{
     background-color: black;
     color: white;
     font: 80px;
