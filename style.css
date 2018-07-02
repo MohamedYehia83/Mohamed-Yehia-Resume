@@ -1,4 +1,4 @@
-.resumeHeader{
+.resumeHeader1{
     font: 40px; 
     color: black;
     margin: 0 auto;
@@ -11,4 +11,8 @@
 
 #lastName{
     color: red;
+}
+
+.resumeHeader2{
+    background-color: black;
 }
